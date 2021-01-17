@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpacesRovers", "SpacesRovers\SpacesRovers.csproj", "{06906ABA-82A8-4B20-AA97-F72395128605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceRovers.UnitTests", "SpaceRovers.UnitTests\SpaceRovers.UnitTests.csproj", "{236660DE-301E-4DC6-80F3-7FBAEF7B2CA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06906ABA-82A8-4B20-AA97-F72395128605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06906ABA-82A8-4B20-AA97-F72395128605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06906ABA-82A8-4B20-AA97-F72395128605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06906ABA-82A8-4B20-AA97-F72395128605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{236660DE-301E-4DC6-80F3-7FBAEF7B2CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236660DE-301E-4DC6-80F3-7FBAEF7B2CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236660DE-301E-4DC6-80F3-7FBAEF7B2CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236660DE-301E-4DC6-80F3-7FBAEF7B2CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA937D9D-7C19-44A7-A624-EF8BFEC3EC34}
+	EndGlobalSection
+EndGlobal
